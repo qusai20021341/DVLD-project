@@ -2,7 +2,6 @@
 
 A comprehensive **Desktop Application** for managing a Driver and Vehicle Licensing Department. Built with **C# .NET Windows Forms** using 3-Tier Architecture.
 
-![DVLD Banner](project%20Images/gov.jor.dvld-header.png)
 
 ## 📋 Project Overview
 
